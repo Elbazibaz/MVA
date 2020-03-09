@@ -9,13 +9,14 @@
 >   The last 10% of the original dataset is used to create the test set.
 > 
 >
-
-> * <code>grammar.py</code> : creates the pcfg based on the formatted (sentences) train set. Keep track of the frequency of lhs->rhs rules
-    and also the (word, tag) frequency.
+>
+> * <code>grammar.py</code> : creates the pcfg based on the formatted (sentences) train set. 
+>    Keep track of the frequency of lhs->rhs rules
+>    and also the (word, tag) frequency.
 > * <code>oov.py</code> : Class to handle the OoV words. Also load the word embeddings in polyglot-fr. 
 > * <code>parser.py</code> :  choose the most probable tree parse based on the PCYK algorithm. 
 > * <code>main.py</code> : handles every
-
+>
 ---
 
 ## Setting 
