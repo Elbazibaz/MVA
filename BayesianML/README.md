@@ -1,4 +1,5 @@
 # Bayesian Machine Learning
+## MVA- Project
 ---
 On the Impact of the Activation Function on Deep Neural Networks Training - Soufiane Hayou /Arnaud Doucet /Judith Rousseau
 MVA - Project 2020
